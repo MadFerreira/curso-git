@@ -1,0 +1,27 @@
+html { 
+    font-size: 15px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */ 
+    font-family: "Open Sans", sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */ 
+    background-color:yellowgreen;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #00539F;
+    text-shadow: -30px -30px 3px black;
+  }
+
+  
+img {
+    display: block;
+    margin: 0 auto;
+  }
